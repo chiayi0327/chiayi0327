@@ -1,6 +1,7 @@
 # Hello World!
 
-**Hi there! I'm Joy(Chia-Yi) Lee !**
+### Hi there! 
+**I'm Chia-Yi(Joy) Lee !**
 
 I am a graduate student studying at UIUC, and actively seeking 2022 summer intern. Worked at eCloudvalley, Master Concept as a cloud engineer and had some experience in AWS, Azure and GCP.
 
@@ -10,9 +11,6 @@ Contact me : joy1996lee@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiayi0327&show_icons=true&theme=city_lights)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiayi0327&layout=compact&theme=city_lights)
-)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
