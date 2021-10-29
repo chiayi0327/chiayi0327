@@ -8,6 +8,13 @@ I want to be a software engineer, data engineer, or Devops engineer in the futur
 
 Contact me : joy1996lee@gmail.com
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiayi0327&show_icons=true&theme=city_lights)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiayi0327&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Certificate
 * AWS Certified Solutions Architect – Associate, Amazon Web Service
 * AWS Certified SysOps Administrator – Associate, Amazon Web Service
